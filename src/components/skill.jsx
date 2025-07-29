@@ -12,8 +12,8 @@ const skillsData = [
       "JavaScript",
       "Bootstrap",
       "Tailwind CSS",
-      "Angular",
-      "jQuery",
+      "React(Basic)",
+      "Nextjs(Basic)",
     ],
   },
   {
@@ -34,6 +34,7 @@ const skillsData = [
       "Git",
       "GitHub",
       "Docker",
+      "AI Tools"
     ],
   },
 ];
