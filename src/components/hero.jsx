@@ -54,7 +54,7 @@ const Hero = () => {
 
       <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-6 w-full sm:w-auto">
         <a
-          href="#Projects"
+          href="#projects"
           className="w-full sm:w-auto text-center bg-[#40b5df] text-[#181c23] font-semibold py-3 px-6 rounded-lg text-sm hover:bg-[#38bdf8] transition"
         >
           View My Work
