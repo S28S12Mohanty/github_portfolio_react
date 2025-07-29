@@ -40,7 +40,7 @@ function Navbar({ items }) {
 
   return (
     <nav className="bg-[#181c23] bg-opacity-95 backdrop-blur-sm border-b border-gray-700 flex justify-around items-center px-6 py-4 fixed top-0 left-0 w-full z-50">
-      <h1 className="text-[#4fd1ff] text-2xl font-bold">My Portfolio</h1>
+      <h1 className="text-[#4fd1ff] text-2xl font-bold">Sunami</h1>
       {/* Hamburger for mobile */}
       <button
         className="md:hidden flex flex-col justify-center items-center w-10 h-10 focus:outline-none"
