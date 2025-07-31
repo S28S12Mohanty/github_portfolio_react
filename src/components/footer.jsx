@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="font-semibold text-foreground">Quick Links</h4>
             <div className="space-y-2">
-              {["Home", "Skill", "Experience", "Projects", "Contact"].map(
+              {["Home", "Skills", "Experience", "Projects", "Contact"].map(
                 (item) => (
                   <button
                     key={item}
