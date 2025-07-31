@@ -26,7 +26,7 @@ const Footer = () => {
                     key={item}
                     onClick={() => {
                       const element = document.querySelector(
-                        `#${item.replace(/\s+/g, "")}`
+                        `#${item.replace(/\s+/g, "").toLowerCase()}`
                       );
                       if (element) {
                         element.scrollIntoView({ behavior: "smooth" });
