@@ -30,7 +30,7 @@ const Hero = () => {
   return (
     <header
       className="min-h-screen flex flex-col justify-center items-center text-center px-4 sm:px-6 py-10 bg-[#181c23]"
-      id="Home"
+      id="home"
     >
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-3 leading-snug sm:leading-tight">
         <span className="text-[#4fd1ff] tracking-wide text-4xl sm:text-5xl md:text-6xl block">
