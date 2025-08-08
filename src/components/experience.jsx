@@ -9,7 +9,6 @@ const experiences = [
     description:
       "Developed a real-time chat web application utilizing HTML, CSS, Tailwind CSS, Bootstrap and PHP. Designing and implementing applications using REST APIs.",
     tags: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap", "PHP", "REST API"],
-    current: true,
   },
   {
     title: "Front-end Developer (Intern)",
