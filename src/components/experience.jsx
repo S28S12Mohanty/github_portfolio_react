@@ -4,7 +4,7 @@ const experiences = [
   {
     title: "Full-Stack Developer (Intern)",
     company: "Wooble Software Pvt. Ltd.",
-    date: "May 2025 – Present",
+    date: "May 2025 – Aug 2025",
     location: "Bhubaneswar, Odisha",
     description:
       "Developed a real-time chat web application utilizing HTML, CSS, Tailwind CSS, Bootstrap and PHP. Designing and implementing applications using REST APIs.",
