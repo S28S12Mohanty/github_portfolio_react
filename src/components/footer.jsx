@@ -53,7 +53,7 @@ const Footer = () => {
                 sunamiswayamprava2812@gmail.com
               </a>
               <p className="text-muted-foreground">
-                Acharya Vihar, Bhubaneswar-751022
+                Nayapalli, Bhubaneswar-751012
               </p>
             </div>
           </div>
